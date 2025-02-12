@@ -7,4 +7,4 @@ Projeto de cronograma para atividades da viagem ou compromissos.
 -Tecnologias utilizadas: HTML. CSS. JAVASCRIPT.
 
 
-Project: 
+Project: https://a1n2f.github.io/project-timeline-trip/
